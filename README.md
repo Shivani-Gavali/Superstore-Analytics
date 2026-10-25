@@ -68,3 +68,4 @@ This project analyzes Superstore data to evaluate sales performance, profitabili
 ### Dashboard Preview:
 
 ![Superstore Analytics](Superstore%20Analytics.png)
+![Superstore Analytics](Superstore%20Analytics%20Forecasting.png)
